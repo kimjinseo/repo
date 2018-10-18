@@ -1,0 +1,27 @@
+<<<<<<< .mine
+asdfsfdasdafd'
+gfdh
+gf
+ghffd
+g
+fgdf
+hdg
+dhfg
+=======
+asdfsfdasdafd
+sdaf
+sda
+f
+sdaf
+sda
+fsda
+f
+asd
+fsda
+f
+sdaf
+dsa
+fsda
+f
+sdaf
+>>>>>>> .r11
